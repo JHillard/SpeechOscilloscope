@@ -1,0 +1,2 @@
+# SpeechOscilloscope
+Voice controlled oscilloscope
